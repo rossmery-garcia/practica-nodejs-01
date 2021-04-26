@@ -1,0 +1,1 @@
+### Carpeta que se debe versionar porque es donde se generan los archivos de la app.
